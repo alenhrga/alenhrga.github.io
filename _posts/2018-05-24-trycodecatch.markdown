@@ -5,7 +5,7 @@ date:   2018-05-24 15:53:08 +0200
 categories: combis hackathon
 ---
 
-## Team `Immutables`
+## Team Immutables
 
 - [Edi Sinovčić][lnes]
 - [Anton Filipović][lnaf]
